@@ -1,4 +1,4 @@
-## Contents of the our P5JS folder 
+## Contents of our P5JS folder 
 
 #### (edited from https://p5js.org/download/)
 
@@ -45,16 +45,16 @@ This README file formatted with Markdown :)
 
 # What's next?
 
-If you need more information to help get you started, please refer to our website:  
+If you need more information to help get you started, please refer to:  
 https://p5js.org/get-started/ and https://p5js.org/learn/
 
 An online reference to the p5.js library is available here:  
 https://p5js.org/reference/
 
-In order to run your website (including the empty-example), you need to enable a local server, please see this tutorial in our wiki:  
+In order to run your website (including the empty-example), you need to enable a local server, please see this tutorial:  
 https://github.com/processing/p5.js/wiki/Local-server
 
-p5.js is a community and p5.js is built by contributions. If you want to learn more about us, visit:  
+p5.js is a community and p5.js is built by contributions. If you want to learn more visit:  
 https://p5js.org/community/
 
 # License
