@@ -1,25 +1,31 @@
-THURS WEEK 1
-github, fork p5.js
-make a git repo for class on computer with app and push to github
-make logfile, python foldet, p5 folder, add info needed
-make logfile to keep track with brief notes
+#
+# THIS IS SAVED AS A TEXT FILE BUT YOU CAN ENABLE COLOUR SPECIFIC SYNTAX TO HELP READ THE INFORMATION
+# CLICK ON ^vIEW IN SUBLIME MENU - LOOK FOR 'SYNTAX' - IT IS ABOUT HALF WAY DOWN THE LIST OF OPTIONS - EXPAND THE SYNTAX OPTION AND SELECT "BASH" (ONE OF THE FIRST FEW LANGUAGE OPTIONS)
+# YOU DO NOT NEED TO KNOW BASH - IT IS JUST A WAY TO SEE THE INFORMATION THAT IS IN THIS FILE WITH APPROPRIATE COLOUR DISTICTIONS BETWEEN THE DIFFERENT TYPES OF COMMANDS, STEPS, AND COMMENTS 
+#
+#
+# USEFUL LINKS TO GET COMMAND LINE INTERFACE RUNNING - GITHUB
+# WE WILL LOOK AT USER INTERFACES WEEK 2 SO DON'T WORRY IF YOU HAVE NEVER DONE ANYTHING LIKE THIS BEFORE
+#
+# MAIN INFO PAGE
+# I USED THE LINUX/UBUNTU INSTALL BUT YOU MAY NEED A DIFFERENT OPERATING SYSTEM
+# I NEED TO GET A VERSION OF PROCESSING - VERSION 3.5.4 IS WHAT WORKS WITH PYTHON
+# YOU PROBABLY ALREADY HAVE V3.5.4 INSTALLED FROM LAST SEMESTER
+#
+# PATH-TO: THIS IS WHERE YOU ADD YOUR OWN DIRECTORY PATH TO GET TO WHERE PROCESSING WILL BE INSTALLED/IS INSTALLED
+# ONLY INSTALL IF YOU HAVEN'T ALREADY! (OR NEED THE NEW VERSION)
+# IF YOU CLONE THE REPO IT WILL AUTOMATICALLY DOWNLOAD INTO A FOLDER CALLED processing-3.5.4
+# CLONING IS USING GIT - WHICH WE WILL USE WITH GITHUB - IT IS LIKE TAKING A COPY OF THE REPOSITORY SIMILAR TO WHAT YOU DID WHEN YOU COPIED/CLONED MY REPO FROM CLASS
+# 
+# IF YOU FORKED THE REPO WE WILL CLARIFY FORK VS CLONE NEXT WEEK | IF I HAVE TIME I'LL MAKE A VIDEO ON THE WEEKEND
+# YOU CAN DOWNLOAD PROCESSING FOLLOWING THE INSTRUCTIONS ON PROCESSING WEBSITE 
+#
+unknown@anon:$ cd PATH-TO/ 
+unknown@anon:/PATH-TO$ sudo git clone https://github.com/processing/processing-3.5.4.git
+unknown@anon:/PATH-TO-processing-3.5.4/$ cd processing-3.5.4/build/
 
-can init git in the processing sketch folder or make new one etc we will do CLI next week
-but this way we can just copy the files we want to keep like just sketch etc and everything else stays on computer
-also will make easier to follow your progress and check the updating
-show about 100 days of code and what changes on github etc
+# NOW WE CAN RUN PYTHON MODE IN PROCESSING
+unknown@anon:/PATH-TO-processing-3.5.4/$ ./processing
 
-processing website: JS and Python
-get sublime or ? we will go into other examples next week when we do UI UE IDE CLI BUI
-dl p5js complete example/empty example
-instruct on how to enable python mode in processing
-dl processing install, enable python mode
-
-first sketch - show in p5 online editor
-do versions quickly in sublime - push this
-do version in python mode - push this
-
-give references for js and python tutorials/basics but ask students to pick 5 items from processing lists and alter both js and python examples to add something new - this will be how we will start the 100 days of code if you havent already
-
-also need google doc for first name last name github name discord name eClass/yorku email github email
-fill this out and push min of 2 commits to github
+#
+# https://py.processing.org/tutorials/gettingstarted/
