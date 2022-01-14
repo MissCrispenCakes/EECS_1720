@@ -28,3 +28,12 @@ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing
 https://github.github.com/gfm/
 
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
+
+https://www.theserverside.com/answer/Git-fork-vs-clone-Whats-the-difference
+
+https://py.processing.org/tutorials/gettingstarted/
+
+https://p5js.org/get-started/
+
+https://github.com/processing/p5.js/wiki/Local-server
+
