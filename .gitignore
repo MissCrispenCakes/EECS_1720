@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+
+# locally added
+PYTHON/pyhton_readme.sh.txt
+PYTHON/python_p4_readme.sh.txt
+
+GitHub_CLI.sh.txt
