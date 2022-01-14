@@ -13,5 +13,6 @@ do this for both python mode and in the p5.js editor online (assuming you haven'
 
 you are NOT expected to know this right now - but I added some links just in case you wanted to take a peek
 
->> https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
->> https://www.learnpython.org/
+> https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+ 
+> https://www.learnpython.org/
