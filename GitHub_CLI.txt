@@ -1,0 +1,92 @@
+# THIS IS SAVED AS A TEXT FILE BUT YOU CAN ENABLE COLOUR SPECIFIC SYNTAX TO HELP READ THE INFORMATION
+# CLICK ON ^vIEW IN SUBLIME MENU - LOOK FOR 'SYNTAX' - IT IS ABOUT HALF WAY DOWN THE LIST OF OPTIONS - EXPAND THE SYNTAX OPTION AND SELECT "BASH" (ONE OF THE FIRST FEW LANGUAGE OPTIONS)
+# YOU DO NOT NEED TO KNOW BASH - IT IS JUST A WAY TO SEE THE INFORMATION THAT IS IN THIS FILE WITH APPROPRIATE COLOUR DISTICTIONS BETWEEN THE DIFFERENT TYPES OF COMMANDS, STEPS, AND COMMENTS 
+#
+#
+# USEFUL LINKS TO GET COMMAND LINE INTERFACE RUNNING - GITHUB
+# WE WILL LOOK AT USER INTERFACES WEEK 2 SO DON'T WORRY IF YOU HAVE NEVER DONE ANYTHING LIKE THIS BEFORE
+#
+# MAIN INFO PAGE
+# I USED THE LINUX/UBUNTU INSTALL BUT YOU MAY NEED A DIFFERENT OPERATING SYSTEM
+# SCROLL DOWN AT THE FOLLOWING LINK TO FIND OS SPECIFIC INSTRUCTIONS
+# https://github.com/cli/cli#installation
+#
+# MY EXAMPLE LINUX INSTALLATION HAS ITS OWN WEBPAGE
+# https://github.com/cli/cli/blob/trunk/docs/install_linux.md
+#
+# MY TERMINAL (SCREEN OUTPUT ON COMMANMD LINE) IS BELOW FOR MY UBUNTU (LINUX) OPERATING SYSTEM
+# ANYTHING FOLLOWING THIS SYMBOL " # " IS A COMMENT  
+unknown@anon:/home$ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+unknown@anon:/home$ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+
+unknown@anon:/home$ sudo apt update
+unknown@anon:/home$ sudo apt install gh
+
+unknown@anon:/home$ gh auth login
+#
+##
+# ? What account do you want to log into? GitHub.com
+# ? What is your preferred protocol for Git operations? HTTPS
+# ? Authenticate Git with your GitHub credentials? Yes
+# ? How would you like to authenticate GitHub CLI? Login with a web browser
+# 
+# ! First copy your one-time code: XXXX-XXXX
+# - Press Enter to open github.com in your browser... 
+# ✓ Authentication complete. Press Enter to continue...
+# 
+# - gh config set -h github.com git_protocol https
+# ✓ Configured git protocol
+# ✓ Logged in as MissCrispenCakes
+##
+#
+unknown@anon:/home$ gh
+# Work seamlessly with GitHub from the command line.
+
+# USAGE
+#   gh <command> <subcommand> [flags]
+
+# CORE COMMANDS
+#   browse:     Open the repository in the browser
+#   codespace:  Connect to and manage your codespaces
+#   gist:       Manage gists
+#   issue:      Manage issues
+#   pr:         Manage pull requests
+#   release:    Manage GitHub releases
+#   repo:       Create, clone, fork, and view repositories
+
+# ACTIONS COMMANDS
+#   actions:    Learn about working with GitHub Actions
+#   run:        View details about workflow runs
+#   workflow:   View details about GitHub Actions workflows
+
+# ADDITIONAL COMMANDS
+#   alias:      Create command shortcuts
+#   api:        Make an authenticated GitHub API request
+#   auth:       Login, logout, and refresh your authentication
+#   completion: Generate shell completion scripts
+#   config:     Manage configuration for gh
+#   extension:  Manage gh extensions
+#   gpg-key:    Manage GPG keys
+#   help:       Help about any command
+#   secret:     Manage GitHub secrets
+#   ssh-key:    Manage SSH keys
+
+# FLAGS
+#   --help      Show help for command
+#   --version   Show gh version
+
+# EXAMPLES
+#   $ gh issue create
+#   $ gh repo clone cli/cli
+#   $ gh pr checkout 321
+
+# ENVIRONMENT VARIABLES
+#   See 'gh help environment' for the list of supported environment variables.
+
+# LEARN MORE
+#   Use 'gh <command> <subcommand> --help' for more information about a command.
+#   Read the manual at https://cli.github.com/manual
+
+# FEEDBACK
+#   Open an issue using 'gh issue create -R github.com/cli/cli'
+
