@@ -13,7 +13,7 @@ processing website: JS and Python
 get sublime or ? we will go into other examples next week when we do UI UE IDE CLI BUI
 dl p5js complete example/empty example
 instruct on how to enable python mode in processing
-dl processing install, enable python mode
+dl processing 3.5.4 install, enable python mode
 
 first sketch - show in p5 online editor
 do versions quickly in sublime - push this
