@@ -1,0 +1,53 @@
+ICON LISTS for extensions 
+https://iconarchive.com/search?q=icon+16x16
+
+(you can pick whatever size and then just dl whatever - also you may want to think about designing/making your own for your final submission so we can officially add them to the extension packages :) )
+
+HTML LIVING STANDARD
+https://html.spec.whatwg.org/dev/
+https://htmlcheatsheet.com/
+
+CSS TAGS
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+https://websitesetup.org/css3-cheat-sheet/
+
+EXTENSION DEVELOPER INFO
+>> Chrome:  https://developer.chrome.com/docs/extensions/
+>> Firefox: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons
+
+GIT HAPPENS
+common mistakes and how to fix them! 
+>>https://about.gitlab.com/blog/2018/08/08/git-happens/
+
+JSON FILES
+https://www.guru99.com/json-tutorial-example.html
+https://geojson.org/
+
+IS YOUR EXTENSION SAFE??
+https://www.wired.com/story/how-to-audit-browser-extensions-security-chrome-firefox-edge-safari/
+
+RAPID DEV
+https://www.predictiveanalyticstoday.com/top-rapid-application-development-platforms/
+
+CODE EDITOR v IDE
+http://www.differencebetween.net/technology/difference-between-ide-and-code-editor/
+
+UI, UI Elements
+https://www.indeed.com/career-advice/career-development/user-interface
+https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/
+
+IDE EXAMPLES
+>> General: https://wiki.wxwidgets.org/List_of_Integrated_Development_Environments
+>> Android: https://www.androidauthority.com/10-completely-different-ides-and-methods-for-making-android-apps-701584/
+>> JavaScript: https://www.monocubed.com/best-ide-for-javascript/
+>> Python: https://www.geeksforgeeks.org/different-python-ides-and-code-editors/
+>> C/C++: https://blog.eduonix.com/software-development/top-10-ides-c-c-developers/
+
+BRYTHON ?? Always something new happening (might be useful for us integrating JS and python!?)
+https://realpython.com/brython-python-in-browser/
+
+FOUND SOME MORE BROWSER EXAMPLE TUTORIALS:
+>> https://medium.com/@TusharKanjariya/getting-started-with-developing-browser-extensions-eb4a7d8658b3
+>> https://www.geeksforgeeks.org/building-basic-chrome-extension/
+>> https://medium.com/front-end-weekly/how-to-make-a-chrome-browser-extension-from-scratch-chrome-extension-development-basics-basic-ba1daee11123
+>> https://eecs.blog/making-a-browser-extension/
