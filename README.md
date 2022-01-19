@@ -10,6 +10,7 @@ commits made while instructing EECS 1720 (winter 2022) (course @York University,
 >>
 >>  recall the different ways to -> chrome://extensions or about:addons  
 >>  more in-depth version will be in .. more-extension-demo/
+>>  Be sure to check additional info in extension-debugINFO.md
 >>
 > python mode for processing is in PYTHON/
 >>
