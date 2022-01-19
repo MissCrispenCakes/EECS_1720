@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <script src="popup.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <h3 id="greet">Search Settings</h3>
+
+        <p id="message">Refresh page as needed...</p>
+
+        <div id="optionsWrapper">
+            <h5 id="adTitle">URL Position and Appearance</h5>
+            <div class="controlsWrapper">
+
+                <input type="checkbox" id="removeArrowCheckBox" class="checkbox" name="removeArrow" value="arrow"> Remove Arrow/Dots after URL<br>
+                <input type="checkbox" id="removeUrlCheckBox" class="checkbox" name="removeUrl" value="url"> Remove URL<br>
+                                
+                <input type="checkbox" id="colorUrlCheckBox" class="checkbox" name="colorUrl" value="color"> Colour URL<br>
+                Url Color: <input type="textbox" id="urlColorSelection" class="colorSelection"> 
+            </div>
+
+            <h5 id="adTitle">Widget Settings</h5>
+            <div id="widgetsMessage">Select the widgets you want removed.</div>
+            <div class="controlsWrapper">
+                <input type="checkbox" id="twitterWidgetCheckBox" class="checkbox"> Twitter Widget<br>                
+                <input type="checkbox" id="searchWidgetCheckBox" class="checkbox"> "Related searches" Widget<br>
+                <input type="checkbox" id="askWidgetCheckBox" class="checkbox"> "People also ask" Widget<br>
+                <input type="checkbox" id="sideBarWidgetCheckBox" class="checkbox"> Side bar info Widget<br>
+                <input type="checkbox" id="mapsFindResultsOnWidgetCheckBox" class="checkbox"> "Find Results On" Widget<br>
+                <input type="checkbox" id="mapsWidgetCheckBox" class="checkbox"> Google Maps Widget<br>
+            </div>
+
+            <h5 id="adTitle">Additional Settings</h5>
+            <div class="controlsWrapper">
+                 <input type="checkbox" id="imagesCheckBox" class="checkbox"> Remove images within search results<br>
+            </div> 
+
+            <button id="defaultSettings"> Restore Defaults</button>
+            <br>
+            <br>
+        </div>
+    </body>
+</html>
