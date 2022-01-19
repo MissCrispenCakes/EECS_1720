@@ -9,7 +9,7 @@ commits made while instructing EECS 1720 (winter 2022) (course @York University,
 > browser extension demo is in .. extension-demo/
 >>
 >>  recall the different ways to -> chrome://extensions or about:addons  
->>  more in-depth version will be in .. even-more-extension-demo/
+>>  more in-depth version will be in .. more-extension-demo/
 >>
 > python mode for processing is in PYTHON/
 >>
