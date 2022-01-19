@@ -1,0 +1,1 @@
+don't forget -- F12 is a way to debug through the terminal - you can inspect the webpage elements for common classes, IDs, div etc to alter or remove in some way.
