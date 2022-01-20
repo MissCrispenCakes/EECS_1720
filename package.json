@@ -1,0 +1,26 @@
+{
+  "name": "EECS_1720",
+  "version": "1.0.0",
+  "description": "working examples of browser extensions/addons for student projects (teaching EECS 1720)",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robots-make-art-too/EECS_1720.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "browser",
+    "extension",
+    "addon"
+  ],
+  "author": "https://github.com/MissCrispenCakes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robots-make-art-too/EECS_1720/issues"
+  },
+  "homepage": "https://github.com/robots-make-art-too/EECS_1720#readme"
+}
