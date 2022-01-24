@@ -1,4 +1,6 @@
-# EECS_1720
+# Actively updated repo for EECS 1720 is now live at our organization page: https://github.com/robots-make-art-too/EECS_1720
+
+# EECS_1720 -> this repo version is no longer reliably updated for EECS 1720 winter 2022 ^ see above 
 
 commits made while instructing EECS 1720 (winter 2022) (course @York University, Canada)
 - live content will be cleaned, edited, and described in logfile and code comments each week on Thursday
